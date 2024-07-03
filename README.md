@@ -36,6 +36,12 @@ npx shadcn-ui@latest add dropdown-menu
 npx shadcn-ui@latest add card
 ```
 
+
+#### Git salve
+git add .
+git commit -m description
+git push
+
 #### Referências 1:30
 ```
 https://www.youtube.com/watch?v=tUQDzI26TLo&t=386s
