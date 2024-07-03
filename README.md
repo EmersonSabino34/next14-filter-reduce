@@ -3,17 +3,6 @@
 npx create-next-app@latest app-crud2
 ```
 
-#### Caso erro ver requisitos
-* Verificar a versão
-```
-node --version
-```
-
-##### Instalar o next global
-```
-npm install create-next-app@latest -g
-```
-
 #### Rodando o projeto
 ```
     npm run dev
@@ -40,6 +29,11 @@ npx shadcn-ui@latest init
 
 ```
 npx shadcn-ui@latest add dropdown-menu
+```
+
+###### Card
+```
+npx shadcn-ui@latest add card
 ```
 
 #### Referências 1:30

@@ -1,10 +1,10 @@
 'use client'
 
 import { IconClock, IconVideo } from "@tabler/icons-react";
+import Layout from "@/components/templates/Layout";
 
 import Duracao from "@/core/utils/Duracao";
 import ListaAulas from "@/components/aula/ListaAulas";
-import Layout from "@/components/templates/Layout";
 import FiltrarStatus from "@/components/aula/FiltrarStatus";
 import Estatistica from "@/components/aula/Estatistica";
 import Titulo from "@/components/templates/Titulo";
