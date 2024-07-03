@@ -32,15 +32,26 @@ npx shadcn-ui@latest add dropdown-menu
 ```
 
 ###### Card
+* Dependecias do card
 ```
 npx shadcn-ui@latest add card
 ```
 
-
 #### Git salve
+* Adicionando os modificados na area de stage
+```
 git add .
+```
+
+* Commit git comentario
+```
 git commit -m description
+```
+
+* Salvando na nuvem
+```
 git push
+```
 
 #### Referências 1:30
 ```
