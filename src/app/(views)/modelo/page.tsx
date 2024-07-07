@@ -6,18 +6,20 @@ export default function Modelo(){
         <Layout>
             <h1>Modelo</h1>
 
-            <form>
-                <input type="text" placeholder="nome" />
-                <input type="text" placeholder="produto" />
-            </form>
-
-            <br />
+            <div className="card">
+                <form>
+                    <input type="text" placeholder="nome" />
+                    <input type="text" placeholder="produto" />
+                </form>
+                
                 <button>Cadastrar</button>
                 <button>Cancelar</button>
-
-            <br /> <br /> <hr />
+            </div>
 
             
+
+
+
         </Layout>
     )
 }

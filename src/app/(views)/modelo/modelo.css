@@ -1,3 +1,10 @@
+.card{
+    padding: 20px;
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #1c1c1c;
+}
 button{
     color: white;
     height: 50px;
