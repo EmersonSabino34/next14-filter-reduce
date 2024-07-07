@@ -1,4 +1,4 @@
-import { IconArrowBackUp, IconExchangeOff, IconVideoMinus } from "@tabler/icons-react";
+import { IconArrowBackUp, IconCircleNumber3Filled, IconExchangeOff, IconVideoMinus } from "@tabler/icons-react";
 import { ElementType } from "react";
 import Link from "next/link";
 
@@ -21,9 +21,10 @@ export default function Menu(){
     return(
         <aside className="w-72 bg-blue-700 h-screen">
             <nav className="flex flex-col gap-2 py-2 px-3">
-                <ItemMenu icone={IconVideoMinus} label="Aula" url="/aula" />
-                <ItemMenu icone={IconArrowBackUp} label="Treinamento" url="/treinamento" />
-                <ItemMenu icone={IconExchangeOff} label="Sair" url="/" />
+                <ItemMenu icone={IconVideoMinus}  label="Aulas"         url="/aula" />
+                <ItemMenu icone={IconCircleNumber3Filled}  label="Modelos"       url="/modelo" />
+                <ItemMenu icone={IconArrowBackUp} label="Treinamentos"  url="/treinamento" />
+                <ItemMenu icone={IconExchangeOff} label="Sair"          url="/" />
             </nav>
         </aside>
     )

@@ -1,0 +1,16 @@
+button{
+    color: white;
+    height: 50px;
+    width: 80px;
+    margin-left: 4px;
+    margin-right: 4px;
+    background-color: blue;
+}
+
+input, select{
+    padding: 10px;
+    width: 150px;
+    margin-left: 4px;
+    margin-right: 4px;
+    background-color: bisque;
+}

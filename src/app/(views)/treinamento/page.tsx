@@ -1,7 +1,6 @@
 'use client'
 
 import Layout from "@/components/templates/Layout";
-
 import { useState } from "react";
 
 
@@ -54,8 +53,7 @@ export default function Treinamento(){
                     </div>
 
                 </form>
-
-
+    
                 <form className="flex flex-col gap-5 bg-zinc-900 rounded-t-lg">
 
                     <div className="bg-zinc-700 flex justify-center rounded-lg p-3 rounded-t-lg">
