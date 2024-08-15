@@ -1,0 +1,7 @@
+{
+    "login": [
+        { "id": 1, "name": "notebooks" },
+        { "id": 1, "name": "carros" },
+        { "id": 1, "name": "casas" },
+    ]
+}
