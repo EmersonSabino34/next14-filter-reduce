@@ -1,0 +1,7 @@
+{
+    "login": [
+        { "id": 1, "name": "joão silva", "email": "joaosilva@terra.com", "senha": "123456"' },
+        { "id": 1, "name": "michele brito", "email": "michele@terra.com", "senha": "123456"' },
+        { "id": 1, "name": "aline silva", "email": "aline@terra.com", "senha": "123456"' },
+    ]
+}
